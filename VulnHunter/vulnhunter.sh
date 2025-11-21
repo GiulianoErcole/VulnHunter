@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# VulnHunter Script v4.0
+# VulnHunter Script v1.0
 # Features: Multi-target scans, real-time progress, advanced options, customizable scan modes, enhanced reporting, and NSE scripts
 
 # Display a welcome message
